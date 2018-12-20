@@ -1,6 +1,6 @@
 #!/bin/bash
 # tParser v1.0
-# Utility designed to parse current directory for GNMAP files for open ports.
+# Utility designed to parse current directory for GNMAP files for open or closed ports.
 # tParser.sh
 # author 07am [https://github.com/07am]
 
