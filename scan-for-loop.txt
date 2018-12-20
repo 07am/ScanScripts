@@ -1,0 +1,1 @@
+for port in 20,21 22,23 443,80 25,53 8080,8443 445,3389; do nmap 0.0.0.0/0 -p $port  -T2 -Pn -n -oA /PATH/;done
